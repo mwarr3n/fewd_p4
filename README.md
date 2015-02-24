@@ -40,4 +40,4 @@ Minified
 * [https://developers.google.com/speed/pagespeed/insights/](https://developers.google.com/speed/pagespeed/insights/)
 * [http://jscompress.com](http://jscompress.com) 
 * [http://csscompressor.com](http://csscompressor.com) 
-* Piazza Forum 
+* [https://piazza.com/class/i23vpy8h7l27la?cid=550](Piazza Forum) 
