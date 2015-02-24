@@ -1,2 +1,0 @@
-line 474: 
-	moved this line outside loop var pizzasDiv = document.getElementById("randomPizzas");
